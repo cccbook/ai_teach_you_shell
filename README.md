@@ -2,5 +2,23 @@
 
 > A book for human programmer
 
-* [Learn to Write Shell Scripts the AI Way - Without Any Editor](en/README.md)
-* [向 AI 學用 Shell 寫程式 -- 完全不用編輯器](tw/README.md)
+---
+
+## Available Languages
+
+* [English](en/README.md)
+* [繁體中文](tw/README.md)
+* [简体中文](cn/README.md)
+* [日本語](ja/README.md)
+* [한국어](ko/README.md)
+* [Español](es/README.md)
+* [Français](fr/README.md)
+* [Deutsch](de/README.md)
+* [Português](pt/README.md)
+* [Русский](ru/README.md)
+* [Tiếng Việt](vi/README.md)
+* [ภาษาไทย](th/README.md)
+
+---
+
+*Last updated：2026-03-22*
